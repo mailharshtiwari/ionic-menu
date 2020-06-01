@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Main",
+    "url": "/folder/Menu",
+    "icon": "home"
+  },
+  {
+    "title": "Cool Frameworks",
+    "children": [
+      {
+        "title": "Ionic",
+        "url": "/folder/ionic",
+        "icon": "logo-ionic"
+      },
+      {
+        "title": "Flutter",
+        "url": "/folder/flutter",
+        "icon": "logo-google"
+      }
+    ]
+  },
+  {
+    "title": "Favorites",
+    "url": "/folder/Favorites",
+    "icon": "heart"
+  },
+  {
+    "title": "Archived",
+    "url": "/folder/Archived",
+    "icon": "archive"
+  },
+  {
+    "title": "Trash",
+    "url": "/folder/Trash",
+    "icon": "trash"
+  },
+  {
+    "title": "Spam",
+    "url": "/folder/Spam",
+    "icon": "warning"
+  }
+]
